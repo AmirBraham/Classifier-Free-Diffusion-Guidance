@@ -1,0 +1,11 @@
+Epoch 1 - IS: 1.9159, FID: 124.0454
+Epoch 1 - IS: 1.9228, FID: 108.1981
+Epoch 2 - IS: 1.8570, FID: 54.7308
+Epoch 3 - IS: 1.9149, FID: 42.3217
+Epoch 4 - IS: 1.9606, FID: 37.8885
+Epoch 5 - IS: 1.9661, FID: 30.1234
+Epoch 6 - IS: 1.9922, FID: 36.8571
+Epoch 7 - IS: 2.0194, FID: 35.7700
+Epoch 8 - IS: 2.0091, FID: 28.3228
+Epoch 9 - IS: 2.0220, FID: 32.9824
+Epoch 10 - IS: 2.0101, FID: 29.6042
